@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">DziennikTreningowy</string>
+    <string name="action_settings">Settings</string>
+    <string name="week_title">Dziennik Treningowy</string>
+    <string-array name="week_days">
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Środa</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+        <item>Sobota</item>
+        <item>Niedziela</item>
+    </string-array>
+    <string-array name="exercises">
+        <item>Klatka Piersiowa</item>
+        <item>Barki</item>
+        <item>Biceps</item>
+        <item>Triceps</item>
+        <item>Nogi</item>
+        <item>Plecy</item>
+    </string-array>
+    <string name="monday">Poniedziałek</string>
+    <string name="tuesday">Wtorek</string>
+    <string name="wednesdey">Środa</string>
+    <string name="thursday">Czwartek</string>
+    <string name="friday">Piątek</string>
+    <string name="saturday">Sobota</string>
+    <string name="sunday">Niedziela</string>
+    <string name="exercises">Ćwiczenia</string>
+    <string name="biceps">Biceps</string>
+    <string name="triceps">Triceps</string>
+    <string name="back">Plecy</string>
+    <string name="shoulders">Barki</string>
+    <string name="legs">Nogi</string>
+    <string name="chest">Klatka Piersiowa</string>
+    <string-array name="chest_lst">
+        <item>Ławka płaska</item>
+        <item>Ławka dodatnia</item>
+        <item>Pompki szwedzkie</item>
+        <item>Rozpiętki</item>
+    </string-array>
+    <string-array name="back_lst">
+        <item>Martwy Ciąg</item>
+        <item>Wiosłowanie</item>
+        <item>Podciąganie</item>
+        <item>Przyciąganie drążka za głowę</item>
+    </string-array>
+    <string-array name="triceps_lst">
+        <item>Wyciskanie francuskie</item>
+        <item>Na bramie za głowę</item>
+        <item>Pompki szwedzkie</item>
+        <item>Na maszynie fit</item>
+    </string-array>
+    <string-array name="biceps_lst">
+        <item>Chwytem młotkowym</item>
+        <item>W oparciu o kolano</item>
+        <item>Hantle na modlitewniku</item>
+        <item>Z góry na bramie</item>
+    </string-array>
+    <string-array name="legs_lst">
+        <item>Przysiad</item>
+        <item>Wykroki</item>
+        <item>Zakroki</item>
+        <item>Suwnica</item>
+    </string-array>
+    <string-array name="shoulders_lst">
+        <item>Wyciskanie żołnierskie</item>
+        <item>Podnoszenie hantli w przód</item>
+        <item>Face pulls</item>
+        <item>Motylki</item>
+    </string-array>
+    <string name="set">Seria:</string>
+    <string name="rep">Powtórzenia:</string>
+    <string name="weight">Ciężar:</string>
+
+
+
+
+</resources>
